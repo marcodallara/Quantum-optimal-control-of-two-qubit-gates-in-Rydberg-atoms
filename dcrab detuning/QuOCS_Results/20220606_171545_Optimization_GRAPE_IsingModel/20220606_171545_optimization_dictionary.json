@@ -1,0 +1,30 @@
+{
+    "optimization_client_name": "Optimization_GRAPE_IsingModel",
+    "algorithm_settings": {
+        "algorithm_name": "GRAPE",
+        "stopping_criteria": {
+            "max_eval_total": 100,
+            "ftol": 1e-10,
+            "gtol": 1e-10
+        },
+        "algorithm_attribute": null,
+        "algorithm_module": null,
+        "algorithm_class": null
+    },
+    "pulses": [],
+    "parameters": [
+        {
+            "parameter_name": "phase",
+            "initial_value": 3.5,
+            "upper_limit": 12,
+            "lower_limit": -12
+        },
+        {
+            "parameter_name": "detuning",
+            "initial_value": 3,
+            "upper_limit": 10,
+            "lower_limit": -10
+        }
+    ],
+    "times": []
+}

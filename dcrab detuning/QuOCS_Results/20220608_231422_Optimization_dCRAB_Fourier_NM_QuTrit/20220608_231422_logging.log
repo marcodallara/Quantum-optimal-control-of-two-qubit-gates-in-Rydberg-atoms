@@ -1,0 +1,25 @@
+06/08/2022 11:14:22.528 - oc_logger - INFO - The optimization direction is minimization
+06/08/2022 11:14:22.528 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/08/2022 11:14:23.259 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.7255130467090617
+06/08/2022 11:14:23.713 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.703275393039933
+06/08/2022 11:14:24.451 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.7449930554129751
+06/08/2022 11:14:24.932 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.6744184240387334
+06/08/2022 11:14:25.333 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.6252149329760941
+06/08/2022 11:14:25.735 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.5903811104580476
+06/08/2022 11:14:26.166 - oc_logger - INFO - Function evaluation number: 7, FoM: 0.5025723559651267
+06/08/2022 11:14:26.563 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.40077995099087316
+06/08/2022 11:14:26.955 - oc_logger - INFO - Function evaluation number: 9, FoM: 0.2625683366427033
+06/08/2022 11:14:27.355 - oc_logger - INFO - Function evaluation number: 10, FoM: 0.20449332413496213
+06/08/2022 11:14:27.813 - oc_logger - INFO - Function evaluation number: 11, FoM: 0.26577348187548433
+06/08/2022 11:14:28.203 - oc_logger - INFO - Function evaluation number: 12, FoM: 0.27016692766981076
+06/08/2022 11:14:28.588 - oc_logger - INFO - Function evaluation number: 13, FoM: 0.20016047735363085
+06/08/2022 11:14:28.989 - oc_logger - INFO - Function evaluation number: 14, FoM: 0.24600235010965088
+06/08/2022 11:14:29.442 - oc_logger - INFO - Function evaluation number: 15, FoM: 0.2077683773348512
+06/08/2022 11:14:29.836 - oc_logger - INFO - Function evaluation number: 16, FoM: 0.21656671183415954
+06/08/2022 11:14:30.245 - oc_logger - INFO - Function evaluation number: 17, FoM: 0.19904396053253093
+06/08/2022 11:14:30.677 - oc_logger - INFO - Function evaluation number: 18, FoM: 0.2296269404497201
+06/08/2022 11:14:31.073 - oc_logger - INFO - Function evaluation number: 19, FoM: 0.19760111586089268
+06/08/2022 11:14:31.476 - oc_logger - INFO - Function evaluation number: 20, FoM: 0.19763101598677557
+06/08/2022 11:14:31.477 - oc_logger - INFO - Figure of merit : 0.19760111586089268
+06/08/2022 11:14:31.477 - oc_logger - INFO - parameters : [ 6.38417719 -0.2516488 ]
+06/08/2022 11:14:31.477 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

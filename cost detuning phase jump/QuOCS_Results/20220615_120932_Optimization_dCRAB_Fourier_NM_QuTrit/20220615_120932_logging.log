@@ -1,0 +1,13 @@
+15/06/2022 12:09:32.907 - oc_logger - INFO - The optimization direction is minimization
+15/06/2022 12:09:32.908 - oc_logger - INFO - QuOCS version number: 0.0.27
+15/06/2022 12:09:32.943 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.0047310546524389485
+15/06/2022 12:09:32.969 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.002970815162457341
+15/06/2022 12:09:32.983 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.001641594388543166
+15/06/2022 12:09:32.997 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.0002267398366342377
+15/06/2022 12:09:33.013 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.00102765422404405
+15/06/2022 12:09:33.026 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.00010767477456097296
+15/06/2022 12:09:33.040 - oc_logger - INFO - Function evaluation number: 7, FoM: 0.00020494030130424612
+15/06/2022 12:09:33.053 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.0001119138603665748
+15/06/2022 12:09:33.057 - oc_logger - INFO - Figure of merit : 0.00010767477456097296
+15/06/2022 12:09:33.057 - oc_logger - INFO - parameters : [3.9375]
+15/06/2022 12:09:33.058 - oc_logger - INFO - terminate_reason : Convergence of the simplex.

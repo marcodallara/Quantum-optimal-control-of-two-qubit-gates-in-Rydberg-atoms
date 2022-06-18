@@ -1,0 +1,27 @@
+17/06/2022 19:18:24.037 - oc_logger - INFO - The optimization direction is minimization
+17/06/2022 19:18:24.039 - oc_logger - INFO - QuOCS version number: 0.0.27
+17/06/2022 19:18:24.039 - oc_logger - INFO - Direct search start time has been reset.
+17/06/2022 19:18:24.193 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.9984479141965246
+17/06/2022 19:18:24.193 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.9984479141965246
+17/06/2022 19:18:24.346 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.9998874992390872
+17/06/2022 19:18:24.502 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.998679413470276
+17/06/2022 19:18:24.645 - oc_logger - INFO - New record achieved. Previous FoM: 0.9984479141965246, new best FoM : 0.9956723725866065
+17/06/2022 19:18:24.645 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 0, FoM: 0.9956723725866065
+17/06/2022 19:18:24.843 - oc_logger - INFO - New record achieved. Previous FoM: 0.9956723725866065, new best FoM : 0.9836382270287405
+17/06/2022 19:18:24.844 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 0, FoM: 0.9836382270287405
+17/06/2022 19:18:24.845 - oc_logger - INFO - Setting is_running state: False
+17/06/2022 19:18:24.846 - oc_logger - INFO - Setting is_running state: False
+17/06/2022 19:18:24.846 - oc_logger - INFO - Setting is_running state: False
+17/06/2022 19:18:24.846 - oc_logger - INFO - Setting is_running state: False
+17/06/2022 19:18:24.846 - oc_logger - INFO - Setting is_running state: False
+17/06/2022 19:18:24.846 - oc_logger - INFO - SI 1 finished - Number of evaluations: 10, Best FoM: 0.9836382270287405, Terminate reason: terminate_reason is still at default
+
+17/06/2022 19:18:24.846 - oc_logger - INFO - Figure of merit : 0.9836382270287405
+17/06/2022 19:18:24.846 - oc_logger - INFO - Std : 0.0
+17/06/2022 19:18:24.847 - oc_logger - INFO - total number of function evaluations : 5
+17/06/2022 19:18:24.847 - oc_logger - INFO - dcrab_freq_list : [array([[0.14334603, 0.59544821, 1.09180911, 1.475977  ]])]
+17/06/2022 19:18:24.847 - oc_logger - INFO - dcrab_para_list : [array([-9.39791928e-02,  7.52010406e-03,  3.94751430e-02,  3.38456899e-01,
+        0.00000000e+00,  0.00000000e+00,  0.00000000e+00, -1.22927061e-18,
+        3.90000000e-01])]
+17/06/2022 19:18:24.847 - oc_logger - INFO - terminate_reason : terminate_reason is still at default
+17/06/2022 19:18:24.847 - oc_logger - INFO - Termination Reason : Maximum number of total function evaluations reached

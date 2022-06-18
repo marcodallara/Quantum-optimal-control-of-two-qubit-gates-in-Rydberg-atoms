@@ -1,0 +1,158 @@
+06/06/2022 06:29:19.355 - oc_logger - INFO - The optimization direction is minimization
+06/06/2022 06:29:19.355 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/06/2022 06:29:19.355 - oc_logger - INFO - Direct search start time has been reset.
+06/06/2022 06:29:19.358 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.4785086816692401
+06/06/2022 06:29:19.358 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.4785086816692401
+06/06/2022 06:29:19.368 - oc_logger - INFO - New record achieved. Previous FoM: 0.4785086816692401, new best FoM : 0.46082670468120035
+06/06/2022 06:29:19.368 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.46082670468120035
+06/06/2022 06:29:19.372 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.478766477201797
+06/06/2022 06:29:19.375 - oc_logger - INFO - New record achieved. Previous FoM: 0.46082670468120035, new best FoM : 0.46077401366903514
+06/06/2022 06:29:19.375 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 1, FoM: 0.46077401366903514
+06/06/2022 06:29:19.379 - oc_logger - INFO - New record achieved. Previous FoM: 0.46077401366903514, new best FoM : 0.45135926973361107
+06/06/2022 06:29:19.379 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 1, FoM: 0.45135926973361107
+06/06/2022 06:29:19.382 - oc_logger - INFO - New record achieved. Previous FoM: 0.45135926973361107, new best FoM : 0.43124464066578494
+06/06/2022 06:29:19.382 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 2, FoM: 0.43124464066578494
+06/06/2022 06:29:19.386 - oc_logger - INFO - New record achieved. Previous FoM: 0.43124464066578494, new best FoM : 0.40425283729813777
+06/06/2022 06:29:19.386 - oc_logger - INFO - Function evaluation number: 7, SI: 1, Sub-iteration number: 2, FoM: 0.40425283729813777
+06/06/2022 06:29:19.390 - oc_logger - INFO - New record achieved. Previous FoM: 0.40425283729813777, new best FoM : 0.3938201771343187
+06/06/2022 06:29:19.390 - oc_logger - INFO - Function evaluation number: 8, SI: 1, Sub-iteration number: 3, FoM: 0.3938201771343187
+06/06/2022 06:29:19.393 - oc_logger - INFO - New record achieved. Previous FoM: 0.3938201771343187, new best FoM : 0.35665380719225714
+06/06/2022 06:29:19.393 - oc_logger - INFO - Function evaluation number: 9, SI: 1, Sub-iteration number: 3, FoM: 0.35665380719225714
+06/06/2022 06:29:19.397 - oc_logger - INFO - New record achieved. Previous FoM: 0.35665380719225714, new best FoM : 0.2999084607705893
+06/06/2022 06:29:19.397 - oc_logger - INFO - Function evaluation number: 10, SI: 1, Sub-iteration number: 4, FoM: 0.2999084607705893
+06/06/2022 06:29:19.401 - oc_logger - INFO - New record achieved. Previous FoM: 0.2999084607705893, new best FoM : 0.21534558899384593
+06/06/2022 06:29:19.401 - oc_logger - INFO - Function evaluation number: 11, SI: 1, Sub-iteration number: 4, FoM: 0.21534558899384593
+06/06/2022 06:29:19.405 - oc_logger - INFO - New record achieved. Previous FoM: 0.21534558899384593, new best FoM : 0.16583433631633815
+06/06/2022 06:29:19.405 - oc_logger - INFO - Function evaluation number: 12, SI: 1, Sub-iteration number: 5, FoM: 0.16583433631633815
+06/06/2022 06:29:19.408 - oc_logger - INFO - New record achieved. Previous FoM: 0.16583433631633815, new best FoM : 0.06144643921618986
+06/06/2022 06:29:19.408 - oc_logger - INFO - Function evaluation number: 13, SI: 1, Sub-iteration number: 5, FoM: 0.06144643921618986
+06/06/2022 06:29:19.412 - oc_logger - INFO - New record achieved. Previous FoM: 0.06144643921618986, new best FoM : 0.012862434388871247
+06/06/2022 06:29:19.412 - oc_logger - INFO - Function evaluation number: 14, SI: 1, Sub-iteration number: 6, FoM: 0.012862434388871247
+06/06/2022 06:29:19.415 - oc_logger - INFO - Function evaluation number: 15, SI: 1, Sub-iteration number: 6, FoM: 0.021012780210132642
+06/06/2022 06:29:19.418 - oc_logger - INFO - New record achieved. Previous FoM: 0.012862434388871247, new best FoM : 0.00553733241535892
+06/06/2022 06:29:19.418 - oc_logger - INFO - Function evaluation number: 16, SI: 1, Sub-iteration number: 7, FoM: 0.00553733241535892
+06/06/2022 06:29:19.422 - oc_logger - INFO - Function evaluation number: 17, SI: 1, Sub-iteration number: 7, FoM: 0.1647955562271185
+06/06/2022 06:29:19.425 - oc_logger - INFO - Function evaluation number: 18, SI: 1, Sub-iteration number: 8, FoM: 0.07833079578524826
+06/06/2022 06:29:19.427 - oc_logger - INFO - New record achieved. Previous FoM: 0.00553733241535892, new best FoM : 0.00334763774338942
+06/06/2022 06:29:19.427 - oc_logger - INFO - Function evaluation number: 19, SI: 1, Sub-iteration number: 8, FoM: 0.00334763774338942
+06/06/2022 06:29:19.431 - oc_logger - INFO - Function evaluation number: 20, SI: 1, Sub-iteration number: 9, FoM: 0.01445315369903466
+06/06/2022 06:29:19.433 - oc_logger - INFO - Function evaluation number: 21, SI: 1, Sub-iteration number: 9, FoM: 0.0204337475567804
+06/06/2022 06:29:19.436 - oc_logger - INFO - Function evaluation number: 22, SI: 1, Sub-iteration number: 9, FoM: 0.023231934754557315
+06/06/2022 06:29:19.438 - oc_logger - INFO - Function evaluation number: 23, SI: 1, Sub-iteration number: 9, FoM: 0.008479611730999759
+06/06/2022 06:29:19.441 - oc_logger - INFO - Function evaluation number: 24, SI: 1, Sub-iteration number: 10, FoM: 0.04150173005075142
+06/06/2022 06:29:19.443 - oc_logger - INFO - Function evaluation number: 25, SI: 1, Sub-iteration number: 10, FoM: 0.018637656406408576
+06/06/2022 06:29:19.446 - oc_logger - INFO - Function evaluation number: 26, SI: 1, Sub-iteration number: 11, FoM: 0.014256435868015616
+06/06/2022 06:29:19.448 - oc_logger - INFO - New record achieved. Previous FoM: 0.00334763774338942, new best FoM : 0.003206491495466701
+06/06/2022 06:29:19.448 - oc_logger - INFO - Function evaluation number: 27, SI: 1, Sub-iteration number: 11, FoM: 0.003206491495466701
+06/06/2022 06:29:19.452 - oc_logger - INFO - Function evaluation number: 28, SI: 1, Sub-iteration number: 12, FoM: 0.009849742180381482
+06/06/2022 06:29:19.455 - oc_logger - INFO - Function evaluation number: 29, SI: 1, Sub-iteration number: 12, FoM: 0.004552260847684453
+06/06/2022 06:29:19.457 - oc_logger - INFO - Function evaluation number: 30, SI: 1, Sub-iteration number: 13, FoM: 0.00462170358873959
+06/06/2022 06:29:19.460 - oc_logger - INFO - New record achieved. Previous FoM: 0.003206491495466701, new best FoM : 0.002422034228537706
+06/06/2022 06:29:19.460 - oc_logger - INFO - Function evaluation number: 31, SI: 1, Sub-iteration number: 13, FoM: 0.002422034228537706
+06/06/2022 06:29:19.464 - oc_logger - INFO - Function evaluation number: 32, SI: 1, Sub-iteration number: 14, FoM: 0.004268998845705307
+06/06/2022 06:29:19.467 - oc_logger - INFO - New record achieved. Previous FoM: 0.002422034228537706, new best FoM : 0.001555067365653695
+06/06/2022 06:29:19.467 - oc_logger - INFO - Function evaluation number: 33, SI: 1, Sub-iteration number: 14, FoM: 0.001555067365653695
+06/06/2022 06:29:19.470 - oc_logger - INFO - Function evaluation number: 34, SI: 1, Sub-iteration number: 15, FoM: 0.006641130236463733
+06/06/2022 06:29:19.473 - oc_logger - INFO - New record achieved. Previous FoM: 0.001555067365653695, new best FoM : 0.0005402624415768997
+06/06/2022 06:29:19.473 - oc_logger - INFO - Function evaluation number: 35, SI: 1, Sub-iteration number: 15, FoM: 0.0005402624415768997
+06/06/2022 06:29:19.477 - oc_logger - INFO - Function evaluation number: 36, SI: 1, Sub-iteration number: 16, FoM: 0.0014630163152492548
+06/06/2022 06:29:19.480 - oc_logger - INFO - Function evaluation number: 37, SI: 1, Sub-iteration number: 17, FoM: 0.003689126306256396
+06/06/2022 06:29:19.482 - oc_logger - INFO - New record achieved. Previous FoM: 0.0005402624415768997, new best FoM : 0.0002947311952028464
+06/06/2022 06:29:19.483 - oc_logger - INFO - Function evaluation number: 38, SI: 1, Sub-iteration number: 17, FoM: 0.0002947311952028464
+06/06/2022 06:29:19.486 - oc_logger - INFO - Function evaluation number: 39, SI: 1, Sub-iteration number: 18, FoM: 0.001185449147779627
+06/06/2022 06:29:19.489 - oc_logger - INFO - Function evaluation number: 40, SI: 1, Sub-iteration number: 18, FoM: 0.0005367213303242302
+06/06/2022 06:29:19.491 - oc_logger - INFO - Function evaluation number: 41, SI: 1, Sub-iteration number: 19, FoM: 0.0013532208349846808
+06/06/2022 06:29:19.494 - oc_logger - INFO - New record achieved. Previous FoM: 0.0002947311952028464, new best FoM : 5.9833569798217745e-05
+06/06/2022 06:29:19.494 - oc_logger - INFO - Function evaluation number: 42, SI: 1, Sub-iteration number: 19, FoM: 5.9833569798217745e-05
+06/06/2022 06:29:19.498 - oc_logger - INFO - Function evaluation number: 43, SI: 1, Sub-iteration number: 20, FoM: 0.0003048087618809925
+06/06/2022 06:29:19.500 - oc_logger - INFO - Function evaluation number: 44, SI: 1, Sub-iteration number: 20, FoM: 9.305117811719832e-05
+06/06/2022 06:29:19.503 - oc_logger - INFO - Function evaluation number: 45, SI: 1, Sub-iteration number: 21, FoM: 0.00045047904894413016
+06/06/2022 06:29:19.506 - oc_logger - INFO - Function evaluation number: 46, SI: 1, Sub-iteration number: 21, FoM: 0.00010951197273412205
+06/06/2022 06:29:19.508 - oc_logger - INFO - Function evaluation number: 47, SI: 1, Sub-iteration number: 22, FoM: 0.00026309355110532007
+06/06/2022 06:29:19.511 - oc_logger - INFO - New record achieved. Previous FoM: 5.9833569798217745e-05, new best FoM : 1.6631401448918837e-05
+06/06/2022 06:29:19.511 - oc_logger - INFO - Function evaluation number: 48, SI: 1, Sub-iteration number: 22, FoM: 1.6631401448918837e-05
+06/06/2022 06:29:19.512 - oc_logger - INFO - SI 1 finished - Number of evaluations: 48, Best FoM: 1.6631401448918837e-05, Terminate reason: Convergence of the simplex.
+
+06/06/2022 06:29:19.512 - oc_logger - INFO - Direct search start time has been reset.
+06/06/2022 06:29:19.515 - oc_logger - INFO - Function evaluation number: 49, SI: 2, Sub-iteration number: 0, FoM: 1.6631401448918837e-05
+06/06/2022 06:29:19.518 - oc_logger - INFO - Function evaluation number: 50, SI: 2, Sub-iteration number: 0, FoM: 0.008666244830924041
+06/06/2022 06:29:19.520 - oc_logger - INFO - Function evaluation number: 51, SI: 2, Sub-iteration number: 0, FoM: 0.005322982776559071
+06/06/2022 06:29:19.523 - oc_logger - INFO - Function evaluation number: 52, SI: 2, Sub-iteration number: 1, FoM: 0.004114722370196944
+06/06/2022 06:29:19.526 - oc_logger - INFO - Function evaluation number: 53, SI: 2, Sub-iteration number: 2, FoM: 0.010519579233628007
+06/06/2022 06:29:19.528 - oc_logger - INFO - Function evaluation number: 54, SI: 2, Sub-iteration number: 2, FoM: 0.001807769183278074
+06/06/2022 06:29:19.530 - oc_logger - INFO - Function evaluation number: 55, SI: 2, Sub-iteration number: 3, FoM: 0.005465466182926759
+06/06/2022 06:29:19.533 - oc_logger - INFO - Function evaluation number: 56, SI: 2, Sub-iteration number: 3, FoM: 0.0015357071035452252
+06/06/2022 06:29:19.536 - oc_logger - INFO - Function evaluation number: 57, SI: 2, Sub-iteration number: 4, FoM: 0.003452587715912947
+06/06/2022 06:29:19.538 - oc_logger - INFO - Function evaluation number: 58, SI: 2, Sub-iteration number: 4, FoM: 0.0005447757333378878
+06/06/2022 06:29:19.541 - oc_logger - INFO - Function evaluation number: 59, SI: 2, Sub-iteration number: 5, FoM: 0.0020320794209554016
+06/06/2022 06:29:19.543 - oc_logger - INFO - Function evaluation number: 60, SI: 2, Sub-iteration number: 5, FoM: 0.000618591857066142
+06/06/2022 06:29:19.546 - oc_logger - INFO - Function evaluation number: 61, SI: 2, Sub-iteration number: 6, FoM: 0.00116534705478899
+06/06/2022 06:29:19.548 - oc_logger - INFO - Function evaluation number: 62, SI: 2, Sub-iteration number: 6, FoM: 0.00016631203878847423
+06/06/2022 06:29:19.551 - oc_logger - INFO - Function evaluation number: 63, SI: 2, Sub-iteration number: 7, FoM: 0.0007031376192859762
+06/06/2022 06:29:19.553 - oc_logger - INFO - Function evaluation number: 64, SI: 2, Sub-iteration number: 7, FoM: 0.00023623524520166583
+06/06/2022 06:29:19.556 - oc_logger - INFO - Function evaluation number: 65, SI: 2, Sub-iteration number: 8, FoM: 0.0003877229895701273
+06/06/2022 06:29:19.558 - oc_logger - INFO - Function evaluation number: 66, SI: 2, Sub-iteration number: 8, FoM: 8.110505216740727e-05
+06/06/2022 06:29:19.561 - oc_logger - INFO - Function evaluation number: 67, SI: 2, Sub-iteration number: 9, FoM: 0.00026281087814949977
+06/06/2022 06:29:19.564 - oc_logger - INFO - Function evaluation number: 68, SI: 2, Sub-iteration number: 9, FoM: 5.849319902895278e-05
+06/06/2022 06:29:19.566 - oc_logger - INFO - Function evaluation number: 69, SI: 2, Sub-iteration number: 10, FoM: 0.0001232081168479615
+06/06/2022 06:29:19.569 - oc_logger - INFO - Function evaluation number: 70, SI: 2, Sub-iteration number: 10, FoM: 3.018349631145334e-05
+06/06/2022 06:29:19.572 - oc_logger - INFO - Function evaluation number: 71, SI: 2, Sub-iteration number: 11, FoM: 0.00010505059689269736
+06/06/2022 06:29:19.574 - oc_logger - INFO - Function evaluation number: 72, SI: 2, Sub-iteration number: 11, FoM: 1.7475309648795623e-05
+06/06/2022 06:29:19.577 - oc_logger - INFO - Function evaluation number: 73, SI: 2, Sub-iteration number: 12, FoM: 3.108553027142413e-05
+06/06/2022 06:29:19.580 - oc_logger - INFO - New record achieved. Previous FoM: 1.6631401448918837e-05, new best FoM : 1.4917313609030813e-05
+06/06/2022 06:29:19.580 - oc_logger - INFO - Function evaluation number: 74, SI: 2, Sub-iteration number: 12, FoM: 1.4917313609030813e-05
+06/06/2022 06:29:19.584 - oc_logger - INFO - Function evaluation number: 75, SI: 2, Sub-iteration number: 13, FoM: 4.8949130259545726e-05
+06/06/2022 06:29:19.587 - oc_logger - INFO - New record achieved. Previous FoM: 1.4917313609030813e-05, new best FoM : 8.229844441487444e-07
+06/06/2022 06:29:19.587 - oc_logger - INFO - Function evaluation number: 76, SI: 2, Sub-iteration number: 13, FoM: 8.229844441487444e-07
+06/06/2022 06:29:19.595 - oc_logger - INFO - Function evaluation number: 77, SI: 2, Sub-iteration number: 14, FoM: 2.704163089894962e-06
+06/06/2022 06:29:19.598 - oc_logger - INFO - Function evaluation number: 78, SI: 2, Sub-iteration number: 15, FoM: 1.8426931982284955e-05
+06/06/2022 06:29:19.601 - oc_logger - INFO - Function evaluation number: 79, SI: 2, Sub-iteration number: 15, FoM: 6.592830698259888e-06
+06/06/2022 06:29:19.604 - oc_logger - INFO - Function evaluation number: 80, SI: 2, Sub-iteration number: 16, FoM: 1.00792872612665e-05
+06/06/2022 06:29:19.607 - oc_logger - INFO - Function evaluation number: 81, SI: 2, Sub-iteration number: 16, FoM: 2.427696131013235e-06
+06/06/2022 06:29:19.610 - oc_logger - INFO - Function evaluation number: 82, SI: 2, Sub-iteration number: 17, FoM: 4.194522842393411e-06
+06/06/2022 06:29:19.612 - oc_logger - INFO - Function evaluation number: 83, SI: 2, Sub-iteration number: 17, FoM: 9.335280219957554e-07
+06/06/2022 06:29:19.615 - oc_logger - INFO - Function evaluation number: 84, SI: 2, Sub-iteration number: 18, FoM: 4.1691561158963e-06
+06/06/2022 06:29:19.618 - oc_logger - INFO - New record achieved. Previous FoM: 8.229844441487444e-07, new best FoM : 7.794216423384626e-07
+06/06/2022 06:29:19.619 - oc_logger - INFO - Function evaluation number: 85, SI: 2, Sub-iteration number: 18, FoM: 7.794216423384626e-07
+06/06/2022 06:29:19.620 - oc_logger - INFO - SI 2 finished - Number of evaluations: 37, Best FoM: 7.794216423384626e-07, Terminate reason: Convergence of the simplex.
+
+06/06/2022 06:29:19.621 - oc_logger - INFO - Direct search start time has been reset.
+06/06/2022 06:29:19.624 - oc_logger - INFO - Function evaluation number: 86, SI: 3, Sub-iteration number: 0, FoM: 7.794216423384626e-07
+06/06/2022 06:29:19.627 - oc_logger - INFO - Function evaluation number: 87, SI: 3, Sub-iteration number: 0, FoM: 0.005513241947217473
+06/06/2022 06:29:19.629 - oc_logger - INFO - Function evaluation number: 88, SI: 3, Sub-iteration number: 0, FoM: 0.010370264016318909
+06/06/2022 06:29:19.632 - oc_logger - INFO - Function evaluation number: 89, SI: 3, Sub-iteration number: 1, FoM: 0.01287563237780498
+06/06/2022 06:29:19.635 - oc_logger - INFO - Function evaluation number: 90, SI: 3, Sub-iteration number: 1, FoM: 0.0033737650791574314
+06/06/2022 06:29:19.638 - oc_logger - INFO - Function evaluation number: 91, SI: 3, Sub-iteration number: 2, FoM: 0.009983494381136326
+06/06/2022 06:29:19.641 - oc_logger - INFO - Function evaluation number: 92, SI: 3, Sub-iteration number: 2, FoM: 0.00207348055938672
+06/06/2022 06:29:19.643 - oc_logger - INFO - Function evaluation number: 93, SI: 3, Sub-iteration number: 3, FoM: 0.0050873544042686625
+06/06/2022 06:29:19.646 - oc_logger - INFO - Function evaluation number: 94, SI: 3, Sub-iteration number: 3, FoM: 0.0011147464064424906
+06/06/2022 06:29:19.651 - oc_logger - INFO - Function evaluation number: 95, SI: 3, Sub-iteration number: 4, FoM: 0.0033286980269857658
+06/06/2022 06:29:19.654 - oc_logger - INFO - Function evaluation number: 96, SI: 3, Sub-iteration number: 4, FoM: 0.0007784009758842192
+06/06/2022 06:29:19.657 - oc_logger - INFO - Function evaluation number: 97, SI: 3, Sub-iteration number: 5, FoM: 0.0018515496577942159
+06/06/2022 06:29:19.660 - oc_logger - INFO - Function evaluation number: 98, SI: 3, Sub-iteration number: 5, FoM: 0.0003560058291539603
+06/06/2022 06:29:19.663 - oc_logger - INFO - Function evaluation number: 99, SI: 3, Sub-iteration number: 6, FoM: 0.0011523764118156476
+06/06/2022 06:29:19.667 - oc_logger - INFO - Function evaluation number: 100, SI: 3, Sub-iteration number: 6, FoM: 0.000303024486898007
+06/06/2022 06:29:19.669 - oc_logger - INFO - Function evaluation number: 101, SI: 3, Sub-iteration number: 7, FoM: 0.0006550598059162915
+06/06/2022 06:29:19.672 - oc_logger - INFO - Function evaluation number: 102, SI: 3, Sub-iteration number: 7, FoM: 0.0001012348289065601
+06/06/2022 06:29:19.675 - oc_logger - INFO - Function evaluation number: 103, SI: 3, Sub-iteration number: 8, FoM: 0.00040614010130068934
+06/06/2022 06:29:19.679 - oc_logger - INFO - Function evaluation number: 104, SI: 3, Sub-iteration number: 8, FoM: 0.00012677480478129333
+06/06/2022 06:29:19.681 - oc_logger - INFO - Function evaluation number: 105, SI: 3, Sub-iteration number: 9, FoM: 0.0002278079067091765
+06/06/2022 06:29:19.684 - oc_logger - INFO - Function evaluation number: 106, SI: 3, Sub-iteration number: 9, FoM: 3.838946716250291e-05
+06/06/2022 06:29:19.687 - oc_logger - INFO - Function evaluation number: 107, SI: 3, Sub-iteration number: 10, FoM: 0.000140044443747378
+06/06/2022 06:29:19.690 - oc_logger - INFO - Function evaluation number: 108, SI: 3, Sub-iteration number: 10, FoM: 4.07649220796058e-05
+06/06/2022 06:29:19.694 - oc_logger - INFO - Function evaluation number: 109, SI: 3, Sub-iteration number: 11, FoM: 7.987464208403239e-05
+06/06/2022 06:29:19.697 - oc_logger - INFO - Function evaluation number: 110, SI: 3, Sub-iteration number: 11, FoM: 1.0567513409109885e-05
+06/06/2022 06:29:19.700 - oc_logger - INFO - Function evaluation number: 111, SI: 3, Sub-iteration number: 12, FoM: 4.8253168597689466e-05
+06/06/2022 06:29:19.703 - oc_logger - INFO - Function evaluation number: 112, SI: 3, Sub-iteration number: 12, FoM: 1.6763912101813716e-05
+06/06/2022 06:29:19.705 - oc_logger - INFO - Function evaluation number: 113, SI: 3, Sub-iteration number: 13, FoM: 2.655740638279891e-05
+06/06/2022 06:29:19.707 - oc_logger - INFO - Function evaluation number: 114, SI: 3, Sub-iteration number: 13, FoM: 5.942358414889881e-06
+06/06/2022 06:29:19.711 - oc_logger - INFO - Function evaluation number: 115, SI: 3, Sub-iteration number: 14, FoM: 1.726626812437182e-05
+06/06/2022 06:29:19.714 - oc_logger - INFO - Function evaluation number: 116, SI: 3, Sub-iteration number: 14, FoM: 3.596980312825515e-06
+06/06/2022 06:29:19.714 - oc_logger - INFO - SI 3 finished - Number of evaluations: 31, Best FoM: 7.794216423384626e-07, Terminate reason: Convergence of the simplex.
+
+06/06/2022 06:29:19.714 - oc_logger - INFO - Figure of merit : 7.794216423384626e-07
+06/06/2022 06:29:19.714 - oc_logger - INFO - Std : 0.0
+06/06/2022 06:29:19.714 - oc_logger - INFO - total number of function evaluations : 116
+06/06/2022 06:29:19.715 - oc_logger - INFO - dcrab_freq_list : [array([], dtype=float64), array([], dtype=float64), array([], dtype=float64)]
+06/06/2022 06:29:19.716 - oc_logger - INFO - dcrab_para_list : [array([5.90624215, 0.79157441]), array([5.90649782, 0.81238357]), array([5.90649782, 0.81238357])]
+06/06/2022 06:29:19.716 - oc_logger - INFO - terminate_reason : Convergence of the simplex.

@@ -1,0 +1,12 @@
+06/06/2022 03:33:52.833 - oc_logger - INFO - The optimization direction is minimization
+06/06/2022 03:33:52.849 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/06/2022 03:33:52.849 - oc_logger - INFO - Direct search start time has been reset.
+06/06/2022 03:33:53.037 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.9768975191690888
+06/06/2022 03:33:53.038 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.9768975191690888
+06/06/2022 03:33:53.202 - oc_logger - INFO - New record achieved. Previous FoM: 0.9768975191690888, new best FoM : 0.9754622886727565
+06/06/2022 03:33:53.205 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.9754622886727565
+06/06/2022 03:33:53.380 - oc_logger - INFO - New record achieved. Previous FoM: 0.9754622886727565, new best FoM : 0.9693495715595563
+06/06/2022 03:33:53.380 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.9693495715595563
+06/06/2022 03:33:53.537 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 0, FoM: 0.9703397208461262
+06/06/2022 03:33:53.711 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 0, FoM: 0.9801528477022208
+06/06/2022 03:33:53.869 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 0, FoM: 0.9777729244690595

@@ -1,0 +1,21 @@
+06/06/2022 05:37:00.893 - oc_logger - INFO - The optimization direction is minimization
+06/06/2022 05:37:00.893 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/06/2022 05:37:00.893 - oc_logger - INFO - Direct search start time has been reset.
+06/06/2022 05:37:00.896 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.5009009962709597
+06/06/2022 05:37:00.897 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.5009009962709597
+06/06/2022 05:37:00.903 - oc_logger - INFO - New record achieved. Previous FoM: 0.5009009962709597, new best FoM : 0.4999037122495079
+06/06/2022 05:37:00.903 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.4999037122495079
+06/06/2022 05:37:00.907 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.5003790113984381
+06/06/2022 05:37:00.910 - oc_logger - INFO - New record achieved. Previous FoM: 0.4999037122495079, new best FoM : 0.49976765726883543
+06/06/2022 05:37:00.910 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 1, FoM: 0.49976765726883543
+06/06/2022 05:37:00.913 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 1, FoM: 0.5001611057126865
+06/06/2022 05:37:00.916 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 2, FoM: 0.500605961610443
+06/06/2022 05:37:00.918 - oc_logger - INFO - Function evaluation number: 7, SI: 1, Sub-iteration number: 2, FoM: 0.49993520006095715
+06/06/2022 05:37:00.919 - oc_logger - INFO - SI 1 finished - Number of evaluations: 7, Best FoM: 0.49976765726883543, Terminate reason: Convergence of the FoM.
+
+06/06/2022 05:37:00.919 - oc_logger - INFO - Figure of merit : 0.49976765726883543
+06/06/2022 05:37:00.919 - oc_logger - INFO - Std : 0.0
+06/06/2022 05:37:00.919 - oc_logger - INFO - total number of function evaluations : 7
+06/06/2022 05:37:00.919 - oc_logger - INFO - dcrab_freq_list : [array([], dtype=float64)]
+06/06/2022 05:37:00.919 - oc_logger - INFO - dcrab_para_list : [array([3.62769879, 3.56077022])]
+06/06/2022 05:37:00.919 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

@@ -1,0 +1,20 @@
+06/05/2022 02:24:32.383 - oc_logger - INFO - The optimization direction is minimization
+06/05/2022 02:24:32.387 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/05/2022 02:24:32.387 - oc_logger - INFO - Direct search start time has been reset.
+06/05/2022 02:24:32.543 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.5675045351468719
+06/05/2022 02:24:32.543 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.5675045351468719
+06/05/2022 02:24:32.676 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.5707963405367902
+06/05/2022 02:24:32.801 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.5675541503124826
+06/05/2022 02:24:32.933 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 0, FoM: 0.5724655806298657
+06/05/2022 02:24:33.060 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 0, FoM: 0.5689835363500793
+06/05/2022 02:24:33.181 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 0, FoM: 0.5688464061599587
+06/05/2022 02:24:33.314 - oc_logger - INFO - New record achieved. Previous FoM: 0.5675045351468719, new best FoM : 0.5631217734398523
+06/05/2022 02:24:33.315 - oc_logger - INFO - Function evaluation number: 7, SI: 1, Sub-iteration number: 0, FoM: 0.5631217734398523
+06/05/2022 02:24:33.444 - oc_logger - INFO - Function evaluation number: 8, SI: 1, Sub-iteration number: 0, FoM: 0.5657266550909932
+06/05/2022 02:24:33.572 - oc_logger - INFO - Function evaluation number: 9, SI: 1, Sub-iteration number: 0, FoM: 0.5686682255816979
+06/05/2022 02:24:33.692 - oc_logger - INFO - New record achieved. Previous FoM: 0.5631217734398523, new best FoM : 0.56060867705903
+06/05/2022 02:24:33.692 - oc_logger - INFO - Function evaluation number: 10, SI: 1, Sub-iteration number: 1, FoM: 0.56060867705903
+06/05/2022 02:24:33.826 - oc_logger - INFO - New record achieved. Previous FoM: 0.56060867705903, new best FoM : 0.5580254300407674
+06/05/2022 02:24:33.826 - oc_logger - INFO - Function evaluation number: 11, SI: 1, Sub-iteration number: 1, FoM: 0.5580254300407674
+06/05/2022 02:24:33.952 - oc_logger - INFO - Function evaluation number: 12, SI: 1, Sub-iteration number: 2, FoM: 0.5637740183468151
+06/05/2022 02:24:34.081 - oc_logger - INFO - Function evaluation number: 13, SI: 1, Sub-iteration number: 3, FoM: 0.5635539686766936

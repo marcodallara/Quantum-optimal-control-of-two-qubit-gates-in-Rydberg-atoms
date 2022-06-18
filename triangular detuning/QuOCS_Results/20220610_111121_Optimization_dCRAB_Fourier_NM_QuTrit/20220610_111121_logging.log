@@ -1,0 +1,41 @@
+06/10/2022 11:11:21.339 - oc_logger - INFO - The optimization direction is minimization
+06/10/2022 11:11:21.339 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/10/2022 11:11:22.827 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.7810308657233658
+06/10/2022 11:11:24.144 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.7984863706335088
+06/10/2022 11:11:25.107 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.7691059922319885
+06/10/2022 11:11:26.205 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.7576633515998692
+06/10/2022 11:11:27.172 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.7458304595519318
+06/10/2022 11:11:28.110 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.7336815262115542
+06/10/2022 11:11:29.268 - oc_logger - INFO - Function evaluation number: 7, FoM: 0.7189196205643893
+06/10/2022 11:11:30.218 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.7391660131701923
+06/10/2022 11:11:31.257 - oc_logger - INFO - Function evaluation number: 9, FoM: 0.7307992680499646
+06/10/2022 11:11:32.136 - oc_logger - INFO - Function evaluation number: 10, FoM: 0.6920790945100772
+06/10/2022 11:11:33.142 - oc_logger - INFO - Function evaluation number: 11, FoM: 0.663129641383074
+06/10/2022 11:11:34.068 - oc_logger - INFO - Function evaluation number: 12, FoM: 0.7066301912192698
+06/10/2022 11:11:34.936 - oc_logger - INFO - Function evaluation number: 13, FoM: 0.6232925933533532
+06/10/2022 11:11:35.986 - oc_logger - INFO - Function evaluation number: 14, FoM: 0.5651656360277568
+06/10/2022 11:11:36.807 - oc_logger - INFO - Function evaluation number: 15, FoM: 0.5074914327018989
+06/10/2022 11:11:37.555 - oc_logger - INFO - Function evaluation number: 16, FoM: 0.41432262152518307
+06/10/2022 11:11:38.432 - oc_logger - INFO - Function evaluation number: 17, FoM: 0.2765453684198237
+06/10/2022 11:11:39.223 - oc_logger - INFO - Function evaluation number: 18, FoM: 0.15691488064728554
+06/10/2022 11:11:40.077 - oc_logger - INFO - Function evaluation number: 19, FoM: 0.10211348511833995
+06/10/2022 11:11:40.924 - oc_logger - INFO - Function evaluation number: 20, FoM: 0.16909526605662306
+06/10/2022 11:11:41.690 - oc_logger - INFO - Function evaluation number: 21, FoM: 0.20095841993899088
+06/10/2022 11:11:42.609 - oc_logger - INFO - Function evaluation number: 22, FoM: 0.10609042802102242
+06/10/2022 11:11:43.726 - oc_logger - INFO - Function evaluation number: 23, FoM: 0.14315163310834
+06/10/2022 11:11:44.434 - oc_logger - INFO - Function evaluation number: 24, FoM: 0.10509060097652201
+06/10/2022 11:11:45.376 - oc_logger - INFO - Function evaluation number: 25, FoM: 0.1563664434335913
+06/10/2022 11:11:46.400 - oc_logger - INFO - Function evaluation number: 26, FoM: 0.09212133680301815
+06/10/2022 11:11:47.131 - oc_logger - INFO - Function evaluation number: 27, FoM: 0.10440618291684622
+06/10/2022 11:11:48.200 - oc_logger - INFO - Function evaluation number: 28, FoM: 0.09390408847621334
+06/10/2022 11:11:49.331 - oc_logger - INFO - Function evaluation number: 29, FoM: 0.09764849055003144
+06/10/2022 11:11:50.163 - oc_logger - INFO - Function evaluation number: 30, FoM: 0.0908068794135295
+06/10/2022 11:11:51.186 - oc_logger - INFO - Function evaluation number: 31, FoM: 0.11367672786492422
+06/10/2022 11:11:52.258 - oc_logger - INFO - Function evaluation number: 32, FoM: 0.08925715132520473
+06/10/2022 11:11:53.303 - oc_logger - INFO - Function evaluation number: 33, FoM: 0.0911172874933649
+06/10/2022 11:11:54.202 - oc_logger - INFO - Function evaluation number: 34, FoM: 0.089654992999332
+06/10/2022 11:11:55.065 - oc_logger - INFO - Function evaluation number: 35, FoM: 0.09237156889008558
+06/10/2022 11:11:56.046 - oc_logger - INFO - Function evaluation number: 36, FoM: 0.08951547633230517
+06/10/2022 11:11:56.048 - oc_logger - INFO - Figure of merit : 0.08925715132520473
+06/10/2022 11:11:56.048 - oc_logger - INFO - parameters : [3.173303   6.00405049]
+06/10/2022 11:11:56.048 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

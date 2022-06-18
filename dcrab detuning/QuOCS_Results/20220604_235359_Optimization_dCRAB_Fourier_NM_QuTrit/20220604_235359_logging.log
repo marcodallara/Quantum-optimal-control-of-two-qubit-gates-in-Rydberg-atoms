@@ -1,0 +1,220 @@
+06/04/2022 11:54:00.300 - oc_logger - INFO - The optimization direction is minimization
+06/04/2022 11:54:00.303 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/04/2022 11:54:00.303 - oc_logger - INFO - Direct search start time has been reset.
+06/04/2022 11:54:00.441 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.29711475206408955
+06/04/2022 11:54:00.441 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.29711475206408955
+06/04/2022 11:54:00.605 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.29711486494022765
+06/04/2022 11:54:00.744 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.2971150467757695
+06/04/2022 11:54:00.870 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 0, FoM: 0.2971150223602479
+06/04/2022 11:54:01.002 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 0, FoM: 0.2971148348884022
+06/04/2022 11:54:01.128 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 0, FoM: 0.29711485793124814
+06/04/2022 11:54:01.257 - oc_logger - INFO - Function evaluation number: 7, SI: 1, Sub-iteration number: 0, FoM: 0.29711488020333876
+06/04/2022 11:54:01.378 - oc_logger - INFO - Function evaluation number: 8, SI: 1, Sub-iteration number: 0, FoM: 0.29711478648493705
+06/04/2022 11:54:01.498 - oc_logger - INFO - Function evaluation number: 9, SI: 1, Sub-iteration number: 0, FoM: 0.29711480872832763
+06/04/2022 11:54:01.629 - oc_logger - INFO - Function evaluation number: 10, SI: 1, Sub-iteration number: 1, FoM: 0.2971148984833818
+06/04/2022 11:54:01.749 - oc_logger - INFO - Function evaluation number: 11, SI: 1, Sub-iteration number: 2, FoM: 0.29711509907165823
+06/04/2022 11:54:01.882 - oc_logger - INFO - Function evaluation number: 12, SI: 1, Sub-iteration number: 2, FoM: 0.2971148748552448
+06/04/2022 11:54:02.035 - oc_logger - INFO - Function evaluation number: 13, SI: 1, Sub-iteration number: 3, FoM: 0.2971150031835328
+06/04/2022 11:54:02.167 - oc_logger - INFO - Function evaluation number: 14, SI: 1, Sub-iteration number: 3, FoM: 0.2971148145116982
+06/04/2022 11:54:02.293 - oc_logger - INFO - Function evaluation number: 15, SI: 1, Sub-iteration number: 4, FoM: 0.2971149364174328
+06/04/2022 11:54:02.419 - oc_logger - INFO - Function evaluation number: 16, SI: 1, Sub-iteration number: 4, FoM: 0.29711481023122666
+06/04/2022 11:54:02.542 - oc_logger - INFO - Function evaluation number: 17, SI: 1, Sub-iteration number: 5, FoM: 0.29711487936549885
+06/04/2022 11:54:02.671 - oc_logger - INFO - Function evaluation number: 18, SI: 1, Sub-iteration number: 5, FoM: 0.29711481193145883
+06/04/2022 11:54:02.804 - oc_logger - INFO - Function evaluation number: 19, SI: 1, Sub-iteration number: 6, FoM: 0.2971149430410661
+06/04/2022 11:54:02.937 - oc_logger - INFO - Function evaluation number: 20, SI: 1, Sub-iteration number: 6, FoM: 0.2971148009679305
+06/04/2022 11:54:03.063 - oc_logger - INFO - Function evaluation number: 21, SI: 1, Sub-iteration number: 7, FoM: 0.2971148305381923
+06/04/2022 11:54:03.203 - oc_logger - INFO - Function evaluation number: 22, SI: 1, Sub-iteration number: 8, FoM: 0.2971148514969615
+06/04/2022 11:54:03.322 - oc_logger - INFO - Function evaluation number: 23, SI: 1, Sub-iteration number: 8, FoM: 0.2971147905427922
+06/04/2022 11:54:03.444 - oc_logger - INFO - Function evaluation number: 24, SI: 1, Sub-iteration number: 9, FoM: 0.29711485259214676
+06/04/2022 11:54:03.567 - oc_logger - INFO - Function evaluation number: 25, SI: 1, Sub-iteration number: 9, FoM: 0.2971147879184699
+06/04/2022 11:54:03.696 - oc_logger - INFO - Function evaluation number: 26, SI: 1, Sub-iteration number: 10, FoM: 0.297114848230145
+06/04/2022 11:54:03.824 - oc_logger - INFO - Function evaluation number: 27, SI: 1, Sub-iteration number: 10, FoM: 0.297114779404404
+06/04/2022 11:54:03.943 - oc_logger - INFO - Function evaluation number: 28, SI: 1, Sub-iteration number: 11, FoM: 0.2971148443365299
+06/04/2022 11:54:04.072 - oc_logger - INFO - Function evaluation number: 29, SI: 1, Sub-iteration number: 11, FoM: 0.29711477835471434
+06/04/2022 11:54:04.195 - oc_logger - INFO - Function evaluation number: 30, SI: 1, Sub-iteration number: 12, FoM: 0.29711482957880664
+06/04/2022 11:54:04.306 - oc_logger - INFO - Function evaluation number: 31, SI: 1, Sub-iteration number: 12, FoM: 0.29711477866634495
+06/04/2022 11:54:04.424 - oc_logger - INFO - Function evaluation number: 32, SI: 1, Sub-iteration number: 13, FoM: 0.2971148347759689
+06/04/2022 11:54:04.550 - oc_logger - INFO - Function evaluation number: 33, SI: 1, Sub-iteration number: 13, FoM: 0.2971147773741756
+06/04/2022 11:54:04.665 - oc_logger - INFO - Function evaluation number: 34, SI: 1, Sub-iteration number: 14, FoM: 0.2971148504648097
+06/04/2022 11:54:04.787 - oc_logger - INFO - Function evaluation number: 35, SI: 1, Sub-iteration number: 14, FoM: 0.29711477186460256
+06/04/2022 11:54:04.920 - oc_logger - INFO - Function evaluation number: 36, SI: 1, Sub-iteration number: 15, FoM: 0.29711479745286296
+06/04/2022 11:54:05.044 - oc_logger - INFO - Function evaluation number: 37, SI: 1, Sub-iteration number: 15, FoM: 0.2971147706736772
+06/04/2022 11:54:05.170 - oc_logger - INFO - Function evaluation number: 38, SI: 1, Sub-iteration number: 16, FoM: 0.2971147980784785
+06/04/2022 11:54:05.289 - oc_logger - INFO - Function evaluation number: 39, SI: 1, Sub-iteration number: 16, FoM: 0.2971147691131133
+06/04/2022 11:54:05.414 - oc_logger - INFO - Function evaluation number: 40, SI: 1, Sub-iteration number: 17, FoM: 0.2971147748635323
+06/04/2022 11:54:05.414 - oc_logger - INFO - SI 1 finished - Number of evaluations: 40, Best FoM: 0.29711475206408955, Terminate reason: Convergence of the FoM.
+
+06/04/2022 11:54:05.415 - oc_logger - INFO - Direct search start time has been reset.
+06/04/2022 11:54:05.542 - oc_logger - INFO - Function evaluation number: 41, SI: 2, Sub-iteration number: 0, FoM: 0.29711475206408955
+06/04/2022 11:54:05.665 - oc_logger - INFO - Function evaluation number: 42, SI: 2, Sub-iteration number: 0, FoM: 0.29711499480224024
+06/04/2022 11:54:05.793 - oc_logger - INFO - Function evaluation number: 43, SI: 2, Sub-iteration number: 0, FoM: 0.2971148733590536
+06/04/2022 11:54:05.911 - oc_logger - INFO - Function evaluation number: 44, SI: 2, Sub-iteration number: 0, FoM: 0.29711523403075524
+06/04/2022 11:54:06.026 - oc_logger - INFO - Function evaluation number: 45, SI: 2, Sub-iteration number: 0, FoM: 0.29711481934019246
+06/04/2022 11:54:06.137 - oc_logger - INFO - Function evaluation number: 46, SI: 2, Sub-iteration number: 0, FoM: 0.29711480855508143
+06/04/2022 11:54:06.251 - oc_logger - INFO - Function evaluation number: 47, SI: 2, Sub-iteration number: 0, FoM: 0.29711485203450394
+06/04/2022 11:54:06.377 - oc_logger - INFO - Function evaluation number: 48, SI: 2, Sub-iteration number: 0, FoM: 0.2971147915427581
+06/04/2022 11:54:06.510 - oc_logger - INFO - Function evaluation number: 49, SI: 2, Sub-iteration number: 0, FoM: 0.2971147988581959
+06/04/2022 11:54:06.641 - oc_logger - INFO - Function evaluation number: 50, SI: 2, Sub-iteration number: 1, FoM: 0.29711518875023346
+06/04/2022 11:54:06.762 - oc_logger - INFO - Function evaluation number: 51, SI: 2, Sub-iteration number: 1, FoM: 0.2971149594996101
+06/04/2022 11:54:06.888 - oc_logger - INFO - Function evaluation number: 52, SI: 2, Sub-iteration number: 2, FoM: 0.29711517493917106
+06/04/2022 11:54:07.015 - oc_logger - INFO - Function evaluation number: 53, SI: 2, Sub-iteration number: 2, FoM: 0.29711485703827445
+06/04/2022 11:54:07.140 - oc_logger - INFO - Function evaluation number: 54, SI: 2, Sub-iteration number: 3, FoM: 0.29711494988882636
+06/04/2022 11:54:07.263 - oc_logger - INFO - Function evaluation number: 55, SI: 2, Sub-iteration number: 3, FoM: 0.2971148499336793
+06/04/2022 11:54:07.389 - oc_logger - INFO - Function evaluation number: 56, SI: 2, Sub-iteration number: 4, FoM: 0.29711483919475024
+06/04/2022 11:54:07.507 - oc_logger - INFO - Function evaluation number: 57, SI: 2, Sub-iteration number: 5, FoM: 0.29711494334543853
+06/04/2022 11:54:07.629 - oc_logger - INFO - Function evaluation number: 58, SI: 2, Sub-iteration number: 5, FoM: 0.2971147978361586
+06/04/2022 11:54:07.757 - oc_logger - INFO - Function evaluation number: 59, SI: 2, Sub-iteration number: 6, FoM: 0.29711482000668354
+06/04/2022 11:54:07.884 - oc_logger - INFO - Function evaluation number: 60, SI: 2, Sub-iteration number: 7, FoM: 0.29711486910757934
+06/04/2022 11:54:08.006 - oc_logger - INFO - Function evaluation number: 61, SI: 2, Sub-iteration number: 7, FoM: 0.29711479838724153
+06/04/2022 11:54:08.132 - oc_logger - INFO - Function evaluation number: 62, SI: 2, Sub-iteration number: 8, FoM: 0.29711491645970045
+06/04/2022 11:54:08.254 - oc_logger - INFO - Function evaluation number: 63, SI: 2, Sub-iteration number: 8, FoM: 0.2971147884918486
+06/04/2022 11:54:08.376 - oc_logger - INFO - Function evaluation number: 64, SI: 2, Sub-iteration number: 9, FoM: 0.29711485222705913
+06/04/2022 11:54:08.502 - oc_logger - INFO - Function evaluation number: 65, SI: 2, Sub-iteration number: 9, FoM: 0.29711478350247034
+06/04/2022 11:54:08.651 - oc_logger - INFO - Function evaluation number: 66, SI: 2, Sub-iteration number: 10, FoM: 0.29711481644076365
+06/04/2022 11:54:08.780 - oc_logger - INFO - Function evaluation number: 67, SI: 2, Sub-iteration number: 10, FoM: 0.29711478406997416
+06/04/2022 11:54:08.904 - oc_logger - INFO - Function evaluation number: 68, SI: 2, Sub-iteration number: 11, FoM: 0.29711485140019334
+06/04/2022 11:54:09.023 - oc_logger - INFO - Function evaluation number: 69, SI: 2, Sub-iteration number: 11, FoM: 0.2971147769674535
+06/04/2022 11:54:09.143 - oc_logger - INFO - Function evaluation number: 70, SI: 2, Sub-iteration number: 12, FoM: 0.29711484870655047
+06/04/2022 11:54:09.269 - oc_logger - INFO - Function evaluation number: 71, SI: 2, Sub-iteration number: 12, FoM: 0.2971147720252474
+06/04/2022 11:54:09.392 - oc_logger - INFO - Function evaluation number: 72, SI: 2, Sub-iteration number: 13, FoM: 0.2971147796056246
+06/04/2022 11:54:09.517 - oc_logger - INFO - Function evaluation number: 73, SI: 2, Sub-iteration number: 14, FoM: 0.2971148126901687
+06/04/2022 11:54:09.646 - oc_logger - INFO - Function evaluation number: 74, SI: 2, Sub-iteration number: 14, FoM: 0.2971147735049915
+06/04/2022 11:54:09.771 - oc_logger - INFO - Function evaluation number: 75, SI: 2, Sub-iteration number: 15, FoM: 0.2971147798015308
+06/04/2022 11:54:09.895 - oc_logger - INFO - Function evaluation number: 76, SI: 2, Sub-iteration number: 16, FoM: 0.29711482856029336
+06/04/2022 11:54:10.019 - oc_logger - INFO - Function evaluation number: 77, SI: 2, Sub-iteration number: 16, FoM: 0.2971147663716338
+06/04/2022 11:54:10.144 - oc_logger - INFO - Function evaluation number: 78, SI: 2, Sub-iteration number: 17, FoM: 0.2971147818090123
+06/04/2022 11:54:10.262 - oc_logger - INFO - Function evaluation number: 79, SI: 2, Sub-iteration number: 18, FoM: 0.2971148015197602
+06/04/2022 11:54:10.389 - oc_logger - INFO - Function evaluation number: 80, SI: 2, Sub-iteration number: 18, FoM: 0.29711476588382024
+06/04/2022 11:54:10.513 - oc_logger - INFO - Function evaluation number: 81, SI: 2, Sub-iteration number: 19, FoM: 0.29711478013479
+06/04/2022 11:54:10.640 - oc_logger - INFO - Function evaluation number: 82, SI: 2, Sub-iteration number: 19, FoM: 0.2971147655719406
+06/04/2022 11:54:10.640 - oc_logger - INFO - SI 2 finished - Number of evaluations: 42, Best FoM: 0.29711475206408955, Terminate reason: Convergence of the FoM.
+
+06/04/2022 11:54:10.640 - oc_logger - INFO - Direct search start time has been reset.
+06/04/2022 11:54:10.762 - oc_logger - INFO - Function evaluation number: 83, SI: 3, Sub-iteration number: 0, FoM: 0.29711475206408955
+06/04/2022 11:54:10.886 - oc_logger - INFO - Function evaluation number: 84, SI: 3, Sub-iteration number: 0, FoM: 0.2971147888744077
+06/04/2022 11:54:11.011 - oc_logger - INFO - Function evaluation number: 85, SI: 3, Sub-iteration number: 0, FoM: 0.2971148469705218
+06/04/2022 11:54:11.139 - oc_logger - INFO - Function evaluation number: 86, SI: 3, Sub-iteration number: 0, FoM: 0.2971152145456126
+06/04/2022 11:54:11.263 - oc_logger - INFO - Function evaluation number: 87, SI: 3, Sub-iteration number: 0, FoM: 0.29711490264868945
+06/04/2022 11:54:11.390 - oc_logger - INFO - Function evaluation number: 88, SI: 3, Sub-iteration number: 0, FoM: 0.29711485395526194
+06/04/2022 11:54:11.514 - oc_logger - INFO - Function evaluation number: 89, SI: 3, Sub-iteration number: 0, FoM: 0.2971147712963992
+06/04/2022 11:54:11.642 - oc_logger - INFO - Function evaluation number: 90, SI: 3, Sub-iteration number: 0, FoM: 0.2971148664399099
+06/04/2022 11:54:11.754 - oc_logger - INFO - Function evaluation number: 91, SI: 3, Sub-iteration number: 0, FoM: 0.29711495011732725
+06/04/2022 11:54:11.863 - oc_logger - INFO - Function evaluation number: 92, SI: 3, Sub-iteration number: 1, FoM: 0.2971153180188484
+06/04/2022 11:54:11.982 - oc_logger - INFO - Function evaluation number: 93, SI: 3, Sub-iteration number: 1, FoM: 0.29711496485666167
+06/04/2022 11:54:12.103 - oc_logger - INFO - Function evaluation number: 94, SI: 3, Sub-iteration number: 2, FoM: 0.2971150359947763
+06/04/2022 11:54:12.229 - oc_logger - INFO - Function evaluation number: 95, SI: 3, Sub-iteration number: 2, FoM: 0.2971148503128753
+06/04/2022 11:54:12.355 - oc_logger - INFO - Function evaluation number: 96, SI: 3, Sub-iteration number: 3, FoM: 0.2971151655835109
+06/04/2022 11:54:12.483 - oc_logger - INFO - Function evaluation number: 97, SI: 3, Sub-iteration number: 3, FoM: 0.2971148315759793
+06/04/2022 11:54:12.610 - oc_logger - INFO - Function evaluation number: 98, SI: 3, Sub-iteration number: 4, FoM: 0.29711488467749336
+06/04/2022 11:54:12.738 - oc_logger - INFO - Function evaluation number: 99, SI: 3, Sub-iteration number: 4, FoM: 0.29711481701254394
+06/04/2022 11:54:12.860 - oc_logger - INFO - Function evaluation number: 100, SI: 3, Sub-iteration number: 5, FoM: 0.29711482727945226
+06/04/2022 11:54:12.982 - oc_logger - INFO - Function evaluation number: 101, SI: 3, Sub-iteration number: 6, FoM: 0.2971148913606929
+06/04/2022 11:54:13.109 - oc_logger - INFO - Function evaluation number: 102, SI: 3, Sub-iteration number: 6, FoM: 0.2971147984975644
+06/04/2022 11:54:13.241 - oc_logger - INFO - Function evaluation number: 103, SI: 3, Sub-iteration number: 7, FoM: 0.2971148547649456
+06/04/2022 11:54:13.367 - oc_logger - INFO - Function evaluation number: 104, SI: 3, Sub-iteration number: 7, FoM: 0.2971147994136498
+06/04/2022 11:54:13.495 - oc_logger - INFO - Function evaluation number: 105, SI: 3, Sub-iteration number: 8, FoM: 0.29711484889936357
+06/04/2022 11:54:13.626 - oc_logger - INFO - Function evaluation number: 106, SI: 3, Sub-iteration number: 8, FoM: 0.29711479776158645
+06/04/2022 11:54:13.754 - oc_logger - INFO - Function evaluation number: 107, SI: 3, Sub-iteration number: 9, FoM: 0.29711489849941564
+06/04/2022 11:54:13.878 - oc_logger - INFO - Function evaluation number: 108, SI: 3, Sub-iteration number: 9, FoM: 0.2971147850101229
+06/04/2022 11:54:14.007 - oc_logger - INFO - Function evaluation number: 109, SI: 3, Sub-iteration number: 10, FoM: 0.2971148634213855
+06/04/2022 11:54:14.137 - oc_logger - INFO - Function evaluation number: 110, SI: 3, Sub-iteration number: 10, FoM: 0.29711478574713346
+06/04/2022 11:54:14.260 - oc_logger - INFO - Function evaluation number: 111, SI: 3, Sub-iteration number: 11, FoM: 0.29711487259047975
+06/04/2022 11:54:14.380 - oc_logger - INFO - Function evaluation number: 112, SI: 3, Sub-iteration number: 11, FoM: 0.2971147794107354
+06/04/2022 11:54:14.501 - oc_logger - INFO - Function evaluation number: 113, SI: 3, Sub-iteration number: 12, FoM: 0.29711479981503097
+06/04/2022 11:54:14.625 - oc_logger - INFO - Function evaluation number: 114, SI: 3, Sub-iteration number: 12, FoM: 0.2971147758909215
+06/04/2022 11:54:14.754 - oc_logger - INFO - Function evaluation number: 115, SI: 3, Sub-iteration number: 13, FoM: 0.29711481406143536
+06/04/2022 11:54:14.877 - oc_logger - INFO - Function evaluation number: 116, SI: 3, Sub-iteration number: 13, FoM: 0.29711477408322606
+06/04/2022 11:54:14.997 - oc_logger - INFO - Function evaluation number: 117, SI: 3, Sub-iteration number: 14, FoM: 0.2971147933046636
+06/04/2022 11:54:15.125 - oc_logger - INFO - Function evaluation number: 118, SI: 3, Sub-iteration number: 14, FoM: 0.29711477226616545
+06/04/2022 11:54:15.248 - oc_logger - INFO - Function evaluation number: 119, SI: 3, Sub-iteration number: 15, FoM: 0.29711479167029764
+06/04/2022 11:54:15.371 - oc_logger - INFO - Function evaluation number: 120, SI: 3, Sub-iteration number: 15, FoM: 0.29711477023405664
+06/04/2022 11:54:15.495 - oc_logger - INFO - Function evaluation number: 121, SI: 3, Sub-iteration number: 16, FoM: 0.2971148305590514
+06/04/2022 11:54:15.618 - oc_logger - INFO - Function evaluation number: 122, SI: 3, Sub-iteration number: 16, FoM: 0.2971147652711119
+06/04/2022 11:54:15.749 - oc_logger - INFO - Function evaluation number: 123, SI: 3, Sub-iteration number: 17, FoM: 0.2971147850980378
+06/04/2022 11:54:15.873 - oc_logger - INFO - Function evaluation number: 124, SI: 3, Sub-iteration number: 17, FoM: 0.29711476878697496
+06/04/2022 11:54:15.873 - oc_logger - INFO - SI 3 finished - Number of evaluations: 42, Best FoM: 0.29711475206408955, Terminate reason: Convergence of the FoM.
+
+06/04/2022 11:54:15.873 - oc_logger - INFO - Direct search start time has been reset.
+06/04/2022 11:54:16.002 - oc_logger - INFO - Function evaluation number: 125, SI: 4, Sub-iteration number: 0, FoM: 0.29711475206408955
+06/04/2022 11:54:16.131 - oc_logger - INFO - Function evaluation number: 126, SI: 4, Sub-iteration number: 0, FoM: 0.29711486306148305
+06/04/2022 11:54:16.256 - oc_logger - INFO - Function evaluation number: 127, SI: 4, Sub-iteration number: 0, FoM: 0.29711521298988286
+06/04/2022 11:54:16.386 - oc_logger - INFO - Function evaluation number: 128, SI: 4, Sub-iteration number: 0, FoM: 0.2971150724421501
+06/04/2022 11:54:16.514 - oc_logger - INFO - Function evaluation number: 129, SI: 4, Sub-iteration number: 0, FoM: 0.29711478645784095
+06/04/2022 11:54:16.637 - oc_logger - INFO - Function evaluation number: 130, SI: 4, Sub-iteration number: 0, FoM: 0.2971148676948927
+06/04/2022 11:54:16.757 - oc_logger - INFO - Function evaluation number: 131, SI: 4, Sub-iteration number: 0, FoM: 0.29711481639353354
+06/04/2022 11:54:16.880 - oc_logger - INFO - Function evaluation number: 132, SI: 4, Sub-iteration number: 0, FoM: 0.29711477585604873
+06/04/2022 11:54:17.011 - oc_logger - INFO - Function evaluation number: 133, SI: 4, Sub-iteration number: 0, FoM: 0.2971148037943385
+06/04/2022 11:54:17.145 - oc_logger - INFO - Function evaluation number: 134, SI: 4, Sub-iteration number: 1, FoM: 0.2971150052181537
+06/04/2022 11:54:17.273 - oc_logger - INFO - Function evaluation number: 135, SI: 4, Sub-iteration number: 2, FoM: 0.2971151903912308
+06/04/2022 11:54:17.394 - oc_logger - INFO - Function evaluation number: 136, SI: 4, Sub-iteration number: 2, FoM: 0.2971148922320803
+06/04/2022 11:54:17.515 - oc_logger - INFO - Function evaluation number: 137, SI: 4, Sub-iteration number: 3, FoM: 0.29711515092619045
+06/04/2022 11:54:17.639 - oc_logger - INFO - Function evaluation number: 138, SI: 4, Sub-iteration number: 3, FoM: 0.2971148584352683
+06/04/2022 11:54:17.770 - oc_logger - INFO - Function evaluation number: 139, SI: 4, Sub-iteration number: 4, FoM: 0.29711493422957513
+06/04/2022 11:54:17.901 - oc_logger - INFO - Function evaluation number: 140, SI: 4, Sub-iteration number: 4, FoM: 0.29711481441569676
+06/04/2022 11:54:18.031 - oc_logger - INFO - Function evaluation number: 141, SI: 4, Sub-iteration number: 5, FoM: 0.29711492239709436
+06/04/2022 11:54:18.159 - oc_logger - INFO - Function evaluation number: 142, SI: 4, Sub-iteration number: 5, FoM: 0.2971148017830998
+06/04/2022 11:54:18.283 - oc_logger - INFO - Function evaluation number: 143, SI: 4, Sub-iteration number: 6, FoM: 0.297114940988789
+06/04/2022 11:54:18.406 - oc_logger - INFO - Function evaluation number: 144, SI: 4, Sub-iteration number: 6, FoM: 0.2971147977573778
+06/04/2022 11:54:18.527 - oc_logger - INFO - Function evaluation number: 145, SI: 4, Sub-iteration number: 7, FoM: 0.2971149034678848
+06/04/2022 11:54:18.648 - oc_logger - INFO - Function evaluation number: 146, SI: 4, Sub-iteration number: 7, FoM: 0.297114798479165
+06/04/2022 11:54:18.779 - oc_logger - INFO - Function evaluation number: 147, SI: 4, Sub-iteration number: 8, FoM: 0.29711484473620753
+06/04/2022 11:54:18.908 - oc_logger - INFO - Function evaluation number: 148, SI: 4, Sub-iteration number: 8, FoM: 0.29711478021363513
+06/04/2022 11:54:19.034 - oc_logger - INFO - Function evaluation number: 149, SI: 4, Sub-iteration number: 9, FoM: 0.29711483815190576
+06/04/2022 11:54:19.154 - oc_logger - INFO - Function evaluation number: 150, SI: 4, Sub-iteration number: 9, FoM: 0.29711477966025956
+06/04/2022 11:54:19.279 - oc_logger - INFO - Function evaluation number: 151, SI: 4, Sub-iteration number: 10, FoM: 0.29711482963043123
+06/04/2022 11:54:19.403 - oc_logger - INFO - Function evaluation number: 152, SI: 4, Sub-iteration number: 10, FoM: 0.29711477450629187
+06/04/2022 11:54:19.531 - oc_logger - INFO - Function evaluation number: 153, SI: 4, Sub-iteration number: 11, FoM: 0.2971148224708393
+06/04/2022 11:54:19.653 - oc_logger - INFO - Function evaluation number: 154, SI: 4, Sub-iteration number: 11, FoM: 0.2971147740060456
+06/04/2022 11:54:19.771 - oc_logger - INFO - Function evaluation number: 155, SI: 4, Sub-iteration number: 12, FoM: 0.2971148228690229
+06/04/2022 11:54:19.889 - oc_logger - INFO - Function evaluation number: 156, SI: 4, Sub-iteration number: 12, FoM: 0.29711477215348703
+06/04/2022 11:54:20.000 - oc_logger - INFO - Function evaluation number: 157, SI: 4, Sub-iteration number: 13, FoM: 0.29711484074781636
+06/04/2022 11:54:20.114 - oc_logger - INFO - Function evaluation number: 158, SI: 4, Sub-iteration number: 13, FoM: 0.2971147703368535
+06/04/2022 11:54:20.234 - oc_logger - INFO - Function evaluation number: 159, SI: 4, Sub-iteration number: 14, FoM: 0.29711479347007497
+06/04/2022 11:54:20.363 - oc_logger - INFO - Function evaluation number: 160, SI: 4, Sub-iteration number: 14, FoM: 0.2971147681602234
+06/04/2022 11:54:20.363 - oc_logger - INFO - SI 4 finished - Number of evaluations: 36, Best FoM: 0.29711475206408955, Terminate reason: Convergence of the FoM.
+
+06/04/2022 11:54:20.364 - oc_logger - INFO - Direct search start time has been reset.
+06/04/2022 11:54:20.487 - oc_logger - INFO - Function evaluation number: 161, SI: 5, Sub-iteration number: 0, FoM: 0.29711475206408955
+06/04/2022 11:54:20.609 - oc_logger - INFO - Function evaluation number: 162, SI: 5, Sub-iteration number: 0, FoM: 0.29711480679123614
+06/04/2022 11:54:20.736 - oc_logger - INFO - Function evaluation number: 163, SI: 5, Sub-iteration number: 0, FoM: 0.29711480573525106
+06/04/2022 11:54:20.862 - oc_logger - INFO - Function evaluation number: 164, SI: 5, Sub-iteration number: 0, FoM: 0.29711536096587565
+06/04/2022 11:54:20.985 - oc_logger - INFO - Function evaluation number: 165, SI: 5, Sub-iteration number: 0, FoM: 0.29711482485055396
+06/04/2022 11:54:21.105 - oc_logger - INFO - Function evaluation number: 166, SI: 5, Sub-iteration number: 0, FoM: 0.29711484714282344
+06/04/2022 11:54:21.223 - oc_logger - INFO - Function evaluation number: 167, SI: 5, Sub-iteration number: 0, FoM: 0.2971149138430421
+06/04/2022 11:54:21.348 - oc_logger - INFO - Function evaluation number: 168, SI: 5, Sub-iteration number: 0, FoM: 0.29711479973455446
+06/04/2022 11:54:21.471 - oc_logger - INFO - Function evaluation number: 169, SI: 5, Sub-iteration number: 0, FoM: 0.2971147684804081
+06/04/2022 11:54:21.602 - oc_logger - INFO - Function evaluation number: 170, SI: 5, Sub-iteration number: 1, FoM: 0.2971154390795214
+06/04/2022 11:54:21.728 - oc_logger - INFO - Function evaluation number: 171, SI: 5, Sub-iteration number: 1, FoM: 0.2971150411826622
+06/04/2022 11:54:21.849 - oc_logger - INFO - Function evaluation number: 172, SI: 5, Sub-iteration number: 2, FoM: 0.2971150948861295
+06/04/2022 11:54:21.979 - oc_logger - INFO - Function evaluation number: 173, SI: 5, Sub-iteration number: 2, FoM: 0.2971148926569157
+06/04/2022 11:54:22.105 - oc_logger - INFO - Function evaluation number: 174, SI: 5, Sub-iteration number: 3, FoM: 0.2971150395134394
+06/04/2022 11:54:22.228 - oc_logger - INFO - Function evaluation number: 175, SI: 5, Sub-iteration number: 3, FoM: 0.29711482693855795
+06/04/2022 11:54:22.349 - oc_logger - INFO - Function evaluation number: 176, SI: 5, Sub-iteration number: 4, FoM: 0.2971149041748091
+06/04/2022 11:54:22.479 - oc_logger - INFO - Function evaluation number: 177, SI: 5, Sub-iteration number: 4, FoM: 0.2971148267796935
+06/04/2022 11:54:22.608 - oc_logger - INFO - Function evaluation number: 178, SI: 5, Sub-iteration number: 5, FoM: 0.2971147590695662
+06/04/2022 11:54:22.715 - oc_logger - INFO - Function evaluation number: 179, SI: 5, Sub-iteration number: 6, FoM: 0.2971148628594098
+06/04/2022 11:54:22.824 - oc_logger - INFO - Function evaluation number: 180, SI: 5, Sub-iteration number: 6, FoM: 0.29711478860831875
+06/04/2022 11:54:22.948 - oc_logger - INFO - Function evaluation number: 181, SI: 5, Sub-iteration number: 7, FoM: 0.2971148175439573
+06/04/2022 11:54:23.064 - oc_logger - INFO - Function evaluation number: 182, SI: 5, Sub-iteration number: 8, FoM: 0.29711487167909145
+06/04/2022 11:54:23.191 - oc_logger - INFO - Function evaluation number: 183, SI: 5, Sub-iteration number: 8, FoM: 0.29711478624644827
+06/04/2022 11:54:23.313 - oc_logger - INFO - Function evaluation number: 184, SI: 5, Sub-iteration number: 9, FoM: 0.2971148151597742
+06/04/2022 11:54:23.433 - oc_logger - INFO - Function evaluation number: 185, SI: 5, Sub-iteration number: 9, FoM: 0.29711478532228286
+06/04/2022 11:54:23.558 - oc_logger - INFO - Function evaluation number: 186, SI: 5, Sub-iteration number: 10, FoM: 0.29711479261565377
+06/04/2022 11:54:23.689 - oc_logger - INFO - Function evaluation number: 187, SI: 5, Sub-iteration number: 11, FoM: 0.29711477709295586
+06/04/2022 11:54:23.816 - oc_logger - INFO - Function evaluation number: 188, SI: 5, Sub-iteration number: 12, FoM: 0.2971147927502733
+06/04/2022 11:54:23.938 - oc_logger - INFO - Function evaluation number: 189, SI: 5, Sub-iteration number: 12, FoM: 0.29711477137353726
+06/04/2022 11:54:24.061 - oc_logger - INFO - Function evaluation number: 190, SI: 5, Sub-iteration number: 13, FoM: 0.2971148235822898
+06/04/2022 11:54:24.191 - oc_logger - INFO - Function evaluation number: 191, SI: 5, Sub-iteration number: 13, FoM: 0.2971147692835503
+06/04/2022 11:54:24.310 - oc_logger - INFO - Function evaluation number: 192, SI: 5, Sub-iteration number: 14, FoM: 0.29711483634734503
+06/04/2022 11:54:24.435 - oc_logger - INFO - Function evaluation number: 193, SI: 5, Sub-iteration number: 14, FoM: 0.2971147661577481
+06/04/2022 11:54:24.562 - oc_logger - INFO - Function evaluation number: 194, SI: 5, Sub-iteration number: 15, FoM: 0.2971147814579478
+06/04/2022 11:54:24.681 - oc_logger - INFO - Function evaluation number: 195, SI: 5, Sub-iteration number: 16, FoM: 0.2971148119826026
+06/04/2022 11:54:24.801 - oc_logger - INFO - Function evaluation number: 196, SI: 5, Sub-iteration number: 16, FoM: 0.29711476629605926
+06/04/2022 11:54:24.802 - oc_logger - INFO - SI 5 finished - Number of evaluations: 36, Best FoM: 0.29711475206408955, Terminate reason: Convergence of the FoM.
+
+06/04/2022 11:54:24.802 - oc_logger - INFO - Figure of merit : 0.29711475206408955
+06/04/2022 11:54:24.802 - oc_logger - INFO - Std : 0.0
+06/04/2022 11:54:24.802 - oc_logger - INFO - total number of function evaluations : 196
+06/04/2022 11:54:24.803 - oc_logger - INFO - dcrab_freq_list : [array([[0.30277532, 0.67980428, 0.76941262, 1.31527612]]), array([[0.2971575 , 0.46458689, 0.8390437 , 1.38214884]]), array([[0.32567494, 0.39855337, 0.89021921, 1.2244562 ]]), array([[0.20129475, 0.53559891, 0.79183244, 1.30664015]]), array([[0.37026948, 0.52318728, 0.88204385, 1.18519171]])]
+06/04/2022 11:54:24.803 - oc_logger - INFO - dcrab_para_list : [array([0., 0., 0., 0., 0., 0., 0., 0.]), array([0., 0., 0., 0., 0., 0., 0., 0.]), array([0., 0., 0., 0., 0., 0., 0., 0.]), array([0., 0., 0., 0., 0., 0., 0., 0.]), array([0., 0., 0., 0., 0., 0., 0., 0.])]
+06/04/2022 11:54:24.803 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

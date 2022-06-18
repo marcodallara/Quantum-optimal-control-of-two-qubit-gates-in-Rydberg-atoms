@@ -1,0 +1,10 @@
+17/06/2022 20:05:59.881 - oc_logger - INFO - The optimization direction is minimization
+17/06/2022 20:05:59.882 - oc_logger - INFO - QuOCS version number: 0.0.27
+17/06/2022 20:05:59.891 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.9999999798406044
+17/06/2022 20:05:59.908 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.9999999797698463
+17/06/2022 20:05:59.919 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.999999979829412
+17/06/2022 20:05:59.929 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.999999979758632
+17/06/2022 20:05:59.939 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.9999999797175758
+17/06/2022 20:05:59.943 - oc_logger - INFO - Figure of merit : 0.9999999797175758
+17/06/2022 20:05:59.943 - oc_logger - INFO - parameters : [3.78580464 0.0606235 ]
+17/06/2022 20:05:59.944 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

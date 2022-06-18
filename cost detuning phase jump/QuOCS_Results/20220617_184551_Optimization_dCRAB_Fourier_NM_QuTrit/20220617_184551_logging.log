@@ -1,0 +1,32 @@
+17/06/2022 18:45:51.937 - oc_logger - INFO - The optimization direction is minimization
+17/06/2022 18:45:51.938 - oc_logger - INFO - QuOCS version number: 0.0.27
+17/06/2022 18:45:51.942 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.005286366563617695
+17/06/2022 18:45:51.949 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.0036567970484224777
+17/06/2022 18:45:51.956 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.006536045215458364
+17/06/2022 18:45:51.960 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.002736945858110018
+17/06/2022 18:45:51.964 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.0014573175560068652
+17/06/2022 18:45:51.971 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.0007032800060053912
+17/06/2022 18:45:51.975 - oc_logger - INFO - Function evaluation number: 7, FoM: 5.910722013713343e-05
+17/06/2022 18:45:51.979 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.0003587921736930566
+17/06/2022 18:45:51.985 - oc_logger - INFO - Function evaluation number: 9, FoM: 0.002784474027548667
+17/06/2022 18:45:51.989 - oc_logger - INFO - Function evaluation number: 10, FoM: 0.00024120598543309058
+17/06/2022 18:45:51.993 - oc_logger - INFO - Function evaluation number: 11, FoM: 0.0014129845157118126
+17/06/2022 18:45:51.997 - oc_logger - INFO - Function evaluation number: 12, FoM: 4.5072892037145706e-05
+17/06/2022 18:45:52.004 - oc_logger - INFO - Function evaluation number: 13, FoM: 0.00033269733107643695
+17/06/2022 18:45:52.008 - oc_logger - INFO - Function evaluation number: 14, FoM: 7.38519005853977e-05
+17/06/2022 18:45:52.012 - oc_logger - INFO - Function evaluation number: 15, FoM: 0.00012185460286895378
+17/06/2022 18:45:52.017 - oc_logger - INFO - Function evaluation number: 16, FoM: 3.8436767371585745e-05
+17/06/2022 18:45:52.023 - oc_logger - INFO - Function evaluation number: 17, FoM: 3.434295118365238e-05
+17/06/2022 18:45:52.026 - oc_logger - INFO - Function evaluation number: 18, FoM: 8.441764563338339e-05
+17/06/2022 18:45:52.032 - oc_logger - INFO - Function evaluation number: 19, FoM: 2.454703959464677e-05
+17/06/2022 18:45:52.038 - oc_logger - INFO - Function evaluation number: 20, FoM: 6.193922385966388e-05
+17/06/2022 18:45:52.042 - oc_logger - INFO - Function evaluation number: 21, FoM: 3.055628654657916e-05
+17/06/2022 18:45:52.046 - oc_logger - INFO - Function evaluation number: 22, FoM: 1.746135800551052e-05
+17/06/2022 18:45:52.051 - oc_logger - INFO - Function evaluation number: 23, FoM: 5.677351413047038e-05
+17/06/2022 18:45:52.056 - oc_logger - INFO - Function evaluation number: 24, FoM: 0.00014134769284523951
+17/06/2022 18:45:52.060 - oc_logger - INFO - Function evaluation number: 25, FoM: 8.91922190771055e-06
+17/06/2022 18:45:52.064 - oc_logger - INFO - Function evaluation number: 26, FoM: 8.590268003816348e-06
+17/06/2022 18:45:52.071 - oc_logger - INFO - Function evaluation number: 27, FoM: 2.265669598167097e-05
+17/06/2022 18:45:52.072 - oc_logger - INFO - Figure of merit : 8.590268003816348e-06
+17/06/2022 18:45:52.072 - oc_logger - INFO - parameters : [3.91122538 0.42638765]
+17/06/2022 18:45:52.072 - oc_logger - INFO - terminate_reason : Convergence of the simplex.

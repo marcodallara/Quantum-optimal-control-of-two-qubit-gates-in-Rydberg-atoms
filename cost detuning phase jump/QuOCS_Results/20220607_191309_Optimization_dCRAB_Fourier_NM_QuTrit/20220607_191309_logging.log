@@ -1,0 +1,40 @@
+06/07/2022 07:13:09.336 - oc_logger - INFO - The optimization direction is minimization
+06/07/2022 07:13:09.336 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/07/2022 07:13:09.440 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.0029172755921378357
+06/07/2022 07:13:09.455 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.07039716232889304
+06/07/2022 07:13:09.464 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.0018691877624861242
+06/07/2022 07:13:09.472 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.06942057751937569
+06/07/2022 07:13:09.480 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.039610473300865756
+06/07/2022 07:13:09.489 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.030574530324569027
+06/07/2022 07:13:09.497 - oc_logger - INFO - Function evaluation number: 7, FoM: 0.011790453885280994
+06/07/2022 07:13:09.505 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.023336592334981532
+06/07/2022 07:13:09.514 - oc_logger - INFO - Function evaluation number: 9, FoM: 0.0026968562554537945
+06/07/2022 07:13:09.522 - oc_logger - INFO - Function evaluation number: 10, FoM: 0.016817355080046337
+06/07/2022 07:13:09.530 - oc_logger - INFO - Function evaluation number: 11, FoM: 0.0038347261935665067
+06/07/2022 07:13:09.538 - oc_logger - INFO - Function evaluation number: 12, FoM: 0.0007737551549842347
+06/07/2022 07:13:09.547 - oc_logger - INFO - Function evaluation number: 13, FoM: 0.006191749593769336
+06/07/2022 07:13:09.557 - oc_logger - INFO - Function evaluation number: 14, FoM: 0.0067868179339865
+06/07/2022 07:13:09.565 - oc_logger - INFO - Function evaluation number: 15, FoM: 0.004391211554505281
+06/07/2022 07:13:09.572 - oc_logger - INFO - Function evaluation number: 16, FoM: 0.002115564524494906
+06/07/2022 07:13:09.581 - oc_logger - INFO - Function evaluation number: 17, FoM: 0.0001308626462822593
+06/07/2022 07:13:09.589 - oc_logger - INFO - Function evaluation number: 18, FoM: 0.00166266648739688
+06/07/2022 07:13:09.598 - oc_logger - INFO - Function evaluation number: 19, FoM: 0.00046813065035855583
+06/07/2022 07:13:09.606 - oc_logger - INFO - Function evaluation number: 20, FoM: 0.0015906435568625588
+06/07/2022 07:13:09.616 - oc_logger - INFO - Function evaluation number: 21, FoM: 0.00037428358774982406
+06/07/2022 07:13:09.624 - oc_logger - INFO - Function evaluation number: 22, FoM: 0.0005123343004687086
+06/07/2022 07:13:09.632 - oc_logger - INFO - Function evaluation number: 23, FoM: 7.276614242934798e-05
+06/07/2022 07:13:09.641 - oc_logger - INFO - Function evaluation number: 24, FoM: 0.0006965387390150957
+06/07/2022 07:13:09.649 - oc_logger - INFO - Function evaluation number: 25, FoM: 0.00020592731057833547
+06/07/2022 07:13:09.658 - oc_logger - INFO - Function evaluation number: 26, FoM: 0.00032971056526143183
+06/07/2022 07:13:09.666 - oc_logger - INFO - Function evaluation number: 27, FoM: 9.684218854055793e-05
+06/07/2022 07:13:09.675 - oc_logger - INFO - Function evaluation number: 28, FoM: 0.00023637825356481734
+06/07/2022 07:13:09.682 - oc_logger - INFO - Function evaluation number: 29, FoM: 4.6262827495535674e-06
+06/07/2022 07:13:09.693 - oc_logger - INFO - Function evaluation number: 30, FoM: 0.00012549677859474695
+06/07/2022 07:13:09.700 - oc_logger - INFO - Function evaluation number: 31, FoM: 4.1619650350988024e-05
+06/07/2022 07:13:09.708 - oc_logger - INFO - Function evaluation number: 32, FoM: 3.6046136739908974e-06
+06/07/2022 07:13:09.717 - oc_logger - INFO - Function evaluation number: 33, FoM: 0.00013313949612592246
+06/07/2022 07:13:09.725 - oc_logger - INFO - Function evaluation number: 34, FoM: 0.00013482574977374817
+06/07/2022 07:13:09.734 - oc_logger - INFO - Function evaluation number: 35, FoM: 3.741031120418903e-05
+06/07/2022 07:13:09.737 - oc_logger - INFO - Figure of merit : 3.6046136739908974e-06
+06/07/2022 07:13:09.737 - oc_logger - INFO - parameters : [3.73920304 3.79371388]
+06/07/2022 07:13:09.738 - oc_logger - INFO - terminate_reason : Convergence of the simplex.

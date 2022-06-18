@@ -1,0 +1,41 @@
+17/06/2022 18:35:22.075 - oc_logger - INFO - The optimization direction is minimization
+17/06/2022 18:35:22.075 - oc_logger - INFO - QuOCS version number: 0.0.27
+17/06/2022 18:35:22.220 - oc_logger - INFO - Function evaluation number: 1, FoM: 0.008514471577626415
+17/06/2022 18:35:22.372 - oc_logger - INFO - Function evaluation number: 2, FoM: 0.010167310791799222
+17/06/2022 18:35:22.525 - oc_logger - INFO - Function evaluation number: 3, FoM: 0.008465652399011314
+17/06/2022 18:35:22.680 - oc_logger - INFO - Function evaluation number: 4, FoM: 0.007046378799369091
+17/06/2022 18:35:22.828 - oc_logger - INFO - Function evaluation number: 5, FoM: 0.005843712090487396
+17/06/2022 18:35:23.037 - oc_logger - INFO - Function evaluation number: 6, FoM: 0.005746523965642569
+17/06/2022 18:35:23.190 - oc_logger - INFO - Function evaluation number: 7, FoM: 0.004672483308507114
+17/06/2022 18:35:23.341 - oc_logger - INFO - Function evaluation number: 8, FoM: 0.0034662112688813584
+17/06/2022 18:35:23.483 - oc_logger - INFO - Function evaluation number: 9, FoM: 0.0031851505701768756
+17/06/2022 18:35:23.639 - oc_logger - INFO - Function evaluation number: 10, FoM: 0.003089624032193039
+17/06/2022 18:35:23.794 - oc_logger - INFO - Function evaluation number: 11, FoM: 0.005244181268151293
+17/06/2022 18:35:23.934 - oc_logger - INFO - Function evaluation number: 12, FoM: 0.007583866574984444
+17/06/2022 18:35:24.088 - oc_logger - INFO - Function evaluation number: 13, FoM: 0.0031473729037386766
+17/06/2022 18:35:24.260 - oc_logger - INFO - Function evaluation number: 14, FoM: 0.002651852004408095
+17/06/2022 18:35:24.396 - oc_logger - INFO - Function evaluation number: 15, FoM: 0.002552353678693664
+17/06/2022 18:35:24.552 - oc_logger - INFO - Function evaluation number: 16, FoM: 0.0026516590366060244
+17/06/2022 18:35:24.722 - oc_logger - INFO - Function evaluation number: 17, FoM: 0.002050222035155258
+17/06/2022 18:35:24.864 - oc_logger - INFO - Function evaluation number: 18, FoM: 0.0022020457452528452
+17/06/2022 18:35:25.020 - oc_logger - INFO - Function evaluation number: 19, FoM: 0.0038292271109290343
+17/06/2022 18:35:25.174 - oc_logger - INFO - Function evaluation number: 20, FoM: 0.0022313100575613865
+17/06/2022 18:35:25.328 - oc_logger - INFO - Function evaluation number: 21, FoM: 0.0018294802508141972
+17/06/2022 18:35:25.482 - oc_logger - INFO - Function evaluation number: 22, FoM: 0.0017857941308576653
+17/06/2022 18:35:25.627 - oc_logger - INFO - Function evaluation number: 23, FoM: 0.0013650311297297435
+17/06/2022 18:35:25.773 - oc_logger - INFO - Function evaluation number: 24, FoM: 0.0011060558809939947
+17/06/2022 18:35:25.927 - oc_logger - INFO - Function evaluation number: 25, FoM: 0.0015911639010456335
+17/06/2022 18:35:26.074 - oc_logger - INFO - Function evaluation number: 26, FoM: 0.0010200146657584064
+17/06/2022 18:35:26.220 - oc_logger - INFO - Function evaluation number: 27, FoM: 0.0013343157328246091
+17/06/2022 18:35:26.376 - oc_logger - INFO - Function evaluation number: 28, FoM: 0.0012077917712188802
+17/06/2022 18:35:26.532 - oc_logger - INFO - Function evaluation number: 29, FoM: 0.0009719852447407362
+17/06/2022 18:35:26.683 - oc_logger - INFO - Function evaluation number: 30, FoM: 0.0011564357610837073
+17/06/2022 18:35:26.838 - oc_logger - INFO - Function evaluation number: 31, FoM: 0.0009619782944393362
+17/06/2022 18:35:26.986 - oc_logger - INFO - Function evaluation number: 32, FoM: 0.0013523813369855642
+17/06/2022 18:35:27.133 - oc_logger - INFO - Function evaluation number: 33, FoM: 0.0009287581891735952
+17/06/2022 18:35:27.291 - oc_logger - INFO - Function evaluation number: 34, FoM: 0.0010216856949963882
+17/06/2022 18:35:27.450 - oc_logger - INFO - Function evaluation number: 35, FoM: 0.0009369502026654875
+17/06/2022 18:35:27.592 - oc_logger - INFO - Function evaluation number: 36, FoM: 0.0009303593914565811
+17/06/2022 18:35:27.594 - oc_logger - INFO - Figure of merit : 0.0009287581891735952
+17/06/2022 18:35:27.594 - oc_logger - INFO - parameters : [-52.76216592  12.41140875]
+17/06/2022 18:35:27.594 - oc_logger - INFO - terminate_reason : Convergence of the FoM.

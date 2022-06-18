@@ -1,0 +1,56 @@
+{
+    "optimization_client_name": "Optimization_dCRAB_Fourier_NM_QuTrit",
+    "algorithm_settings": {
+        "algorithm_name": "dCRAB",
+        "super_iteration_number": 5,
+        "max_eval_total": 1000,
+        "dsm_settings": {
+            "general_settings": {
+                "dsm_algorithm_name": "NelderMead",
+                "is_adaptive": true
+            },
+            "stopping_criteria": {
+                "xatol": 0.01,
+                "frtol": 0.001,
+                "max_eval": 500
+            }
+        },
+        "algorithm_attribute": null,
+        "algorithm_module": null,
+        "algorithm_class": null
+    },
+    "pulses": [
+        {
+            "pulse_name": "Detuning",
+            "upper_limit": 12,
+            "lower_limit": -12,
+            "bins_number": 10,
+            "time_name": "time_1",
+            "amplitude_variation": 0.5,
+            "basis": {
+                "basis_name": "Fourier",
+                "basis_vector_number": 4,
+                "random_super_parameter_distribution": {
+                    "distribution_name": "Uniform",
+                    "lower_limit": 0.0,
+                    "upper_limit": 1.5
+                }
+            },
+            "scaling_function": {
+                "function_type": "lambda_function",
+                "lambda_function": "lambda t: 1.0 + 0.0*t"
+            },
+            "initial_guess": {
+                "function_type": "lambda_function",
+                "lambda_function": "lambda t: 0.0 + 0.0*t"
+            }
+        }
+    ],
+    "parameters": [],
+    "times": [
+        {
+            "time_name": "time_1",
+            "initial_value": 0.06
+        }
+    ]
+}

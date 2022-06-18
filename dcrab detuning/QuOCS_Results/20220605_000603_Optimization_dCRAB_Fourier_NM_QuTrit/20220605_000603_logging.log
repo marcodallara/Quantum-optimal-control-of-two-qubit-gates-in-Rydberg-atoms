@@ -1,0 +1,26 @@
+06/05/2022 12:06:04.165 - oc_logger - INFO - The optimization direction is minimization
+06/05/2022 12:06:04.168 - oc_logger - INFO - QuOCS version number: 0.0.22
+06/05/2022 12:06:04.168 - oc_logger - INFO - Direct search start time has been reset.
+06/05/2022 12:06:05.375 - oc_logger - INFO - New record achieved. Previous FoM: 10000000000.0, new best FoM : 0.29711475206399474
+06/05/2022 12:06:05.375 - oc_logger - INFO - Function evaluation number: 1, SI: 1, Sub-iteration number: 0, FoM: 0.29711475206399474
+06/05/2022 12:06:06.678 - oc_logger - INFO - Function evaluation number: 2, SI: 1, Sub-iteration number: 0, FoM: 0.2971148254475864
+06/05/2022 12:06:07.877 - oc_logger - INFO - Function evaluation number: 3, SI: 1, Sub-iteration number: 0, FoM: 0.2971148719970057
+06/05/2022 12:06:09.152 - oc_logger - INFO - Function evaluation number: 4, SI: 1, Sub-iteration number: 0, FoM: 0.2971152622537442
+06/05/2022 12:06:10.406 - oc_logger - INFO - Function evaluation number: 5, SI: 1, Sub-iteration number: 0, FoM: 0.29711484192805293
+06/05/2022 12:06:11.653 - oc_logger - INFO - Function evaluation number: 6, SI: 1, Sub-iteration number: 0, FoM: 0.2971148216892152
+06/05/2022 12:06:12.893 - oc_logger - INFO - Function evaluation number: 7, SI: 1, Sub-iteration number: 0, FoM: 0.2971148745527864
+06/05/2022 12:06:14.102 - oc_logger - INFO - Function evaluation number: 8, SI: 1, Sub-iteration number: 0, FoM: 0.29711481565998843
+06/05/2022 12:06:15.326 - oc_logger - INFO - Function evaluation number: 9, SI: 1, Sub-iteration number: 0, FoM: 0.29711478837054983
+06/05/2022 12:06:16.581 - oc_logger - INFO - Function evaluation number: 10, SI: 1, Sub-iteration number: 1, FoM: 0.2971152222241169
+06/05/2022 12:06:17.884 - oc_logger - INFO - Function evaluation number: 11, SI: 1, Sub-iteration number: 1, FoM: 0.29711497536700326
+06/05/2022 12:06:17.884 - oc_logger - INFO - SI 1 finished - Number of evaluations: 11, Best FoM: 0.29711475206399474, Terminate reason: Convergence of the FoM.
+
+06/05/2022 12:06:17.884 - oc_logger - INFO - Direct search start time has been reset.
+06/05/2022 12:06:19.111 - oc_logger - INFO - Function evaluation number: 12, SI: 2, Sub-iteration number: 0, FoM: 0.29711475206399474
+06/05/2022 12:06:20.376 - oc_logger - INFO - Function evaluation number: 13, SI: 2, Sub-iteration number: 0, FoM: 0.29711483453153653
+06/05/2022 12:06:21.635 - oc_logger - INFO - Function evaluation number: 14, SI: 2, Sub-iteration number: 0, FoM: 0.2971152308313123
+06/05/2022 12:06:22.886 - oc_logger - INFO - Function evaluation number: 15, SI: 2, Sub-iteration number: 0, FoM: 0.2971150809422345
+06/05/2022 12:06:24.140 - oc_logger - INFO - Function evaluation number: 16, SI: 2, Sub-iteration number: 0, FoM: 0.2971147971729483
+06/05/2022 12:06:25.401 - oc_logger - INFO - Function evaluation number: 17, SI: 2, Sub-iteration number: 0, FoM: 0.29711480421849634
+06/05/2022 12:06:26.696 - oc_logger - INFO - Function evaluation number: 18, SI: 2, Sub-iteration number: 0, FoM: 0.2971148273078906
+06/05/2022 12:06:27.965 - oc_logger - INFO - Function evaluation number: 19, SI: 2, Sub-iteration number: 0, FoM: 0.2971147934659477

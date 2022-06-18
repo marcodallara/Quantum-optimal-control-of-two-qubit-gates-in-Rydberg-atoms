@@ -1,0 +1,41 @@
+{
+    "optimization_client_name": "Optimization_dCRAB_Fourier_NM_QuTrit",
+    "algorithm_settings": {
+        "algorithm_name": "DirectSearch",
+        "dsm_settings": {
+            "general_settings": {
+                "dsm_algorithm_name": "NelderMead",
+                "is_adaptive": false
+            },
+            "stopping_criteria": {
+                "max_eval": 100,
+                "time_lim": 5,
+                "xatol": 0.01,
+                "frtol": 0.01,
+                "change_based_stop": {
+                    "cbs_funct_evals": 50,
+                    "cbs_change": 0.01
+                }
+            }
+        },
+        "algorithm_attribute": null,
+        "algorithm_module": null,
+        "algorithm_class": null
+    },
+    "pulses": [],
+    "parameters": [
+        {
+            "parameter_name": "phase",
+            "initial_value": 3.87,
+            "upper_limit": 12,
+            "lower_limit": -12
+        },
+        {
+            "parameter_name": "detuning",
+            "initial_value": 3.66,
+            "upper_limit": 10,
+            "lower_limit": -10
+        }
+    ],
+    "times": []
+}
