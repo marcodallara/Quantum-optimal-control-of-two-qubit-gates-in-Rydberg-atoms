@@ -1,4 +1,4 @@
-# bachelor-thesis
+# bachelor-thesis (in progress)
 quantum optimal control of CPHASE with Ryd Atoms
 
 https://arxiv.org/pdf/2202.13849.pdf
